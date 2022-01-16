@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 class ListViewScreen extends StatefulWidget {
   const ListViewScreen({Key? key}) : super(key: key);
 

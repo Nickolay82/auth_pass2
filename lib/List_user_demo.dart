@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 class User {
   String _name; // целевая переменна
   String _numPhone; // целевая переменная
